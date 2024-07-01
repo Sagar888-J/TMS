@@ -25,6 +25,8 @@ The Tour Management System developed by Baseline IT Development is a comprehensi
 * Transaction Management: Admins have access to transaction details, including payment methods used by customers.
   
 * Enquiry Handling: Admins can view and respond to customer inquiries promptly.
+
+<h2>Project Setup</h2>
   
 <h3>Database Setup:-</h3>
 
@@ -32,7 +34,6 @@ The Tour Management System developed by Baseline IT Development is a comprehensi
 
 * Import SQL File: Import the tour_management.sql file into the database to create the necessary tables and data structures.
 
-<h3>Project Setup</h3>
 <h4>*Customer Role </h4>
 a.) Registration and Login: Create an account by clicking on the register link. Log in to access the dashboard and view personal details.
 
