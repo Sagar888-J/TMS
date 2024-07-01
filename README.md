@@ -36,6 +36,7 @@ c.) View Transactions: Access detailed transaction information, including paymen
 d.) Handle Enquiries: Respond to customer inquiries efficiently to ensure satisfaction.
 
 Payment Integration
+
 a.) Stripe: Implemented using the vendor folder for secure and efficient payment processing.
 b.) PayPal: Integrated using CDN for seamless transactions.
 **Both methods require client keys to ensure secure and reliable payment processing.**
