@@ -22,21 +22,20 @@ Database Setup
 * Import SQL File: Import the tour_management.sql file into the database to create the necessary tables and data structures.
 
 Project Setup
-* Customer Role *
+* Customer Role 
 a.) Registration and Login: Create an account by clicking on the register link. Log in to access the dashboard and view personal details.
 b.) Booking Packages: Click on the packages link to browse and book travel packages. Use the cart to specify the number of members for the booking.
 c.) Payment: Fill out the payment form and select a payment method (Stripe or PayPal). Both payment methods use client keys for secure transactions.
 d.) Order Confirmation: After successful booking and payment, wait for admin approval. Approved bookings will be visible on the order page.
 e.) Enquiries: Send inquiries about any package to the admin for additional information or issue resolution.
 
-* Admin Role *
+* Admin Role 
 a.) Manage Customers: View, update, or delete customer details as necessary.
 b.) Manage Packages: Create and manage travel packages, and update informational pages like about us, contact us, and privacy policies.
 c.) View Transactions: Access detailed transaction information, including payment methods used by customers.
 d.) Handle Enquiries: Respond to customer inquiries efficiently to ensure satisfaction.
 
-Payment Integration
-
+Payment Integration<br>
 a.) Stripe: Implemented using the vendor folder for secure and efficient payment processing.
 b.) PayPal: Integrated using CDN for seamless transactions.
 **Both methods require client keys to ensure secure and reliable payment processing.**
