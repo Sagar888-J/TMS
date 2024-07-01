@@ -10,7 +10,7 @@ For Customers
 * Payment Processing: Secure payment options include Stripe and PayPal. Customers can choose their preferred payment method and complete the payment through a user-friendly interface.
 * Order Tracking: After booking and successful payment, customers can track their orders and await admin approval. Once approved, the booking details are visible on the order page.
 * Enquiries: Customers can send inquiries regarding any package to get more information or address any issues.
-* 
+  
 For Admins
 * Customer Management: Admins can view, update, and delete customer details.
 * Package Management: Admins can create, update, and manage travel packages, including about us, contact us, and privacy policies pages.
