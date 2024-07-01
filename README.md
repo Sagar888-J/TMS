@@ -6,38 +6,55 @@ The Tour Management System developed by Baseline IT Development is a comprehensi
 <h3>Features :- </h3>
 <h4>For Customers</h4>
 * Account Management: Customers can register, log in, and manage their account details from the homepage or dashboard.
+
 * Package Booking: Customers can browse and book travel packages. The cart feature allows customers to select the number of members for each booking.
+  
 * Payment Processing: Secure payment options include Stripe and PayPal. Customers can choose their preferred payment method and complete the payment through a user-friendly interface.
+  
 * Order Tracking: After booking and successful payment, customers can track their orders and await admin approval. Once approved, the booking details are visible on the order page.
+  
 * Enquiries: Customers can send inquiries regarding any package to get more information or address any issues.
   
 <h4>For Admins</h4>
 * Customer Management: Admins can view, update, and delete customer details.
+
 * Package Management: Admins can create, update, and manage travel packages, including about us, contact us, and privacy policies pages.
+
 * Transaction Management: Admins have access to transaction details, including payment methods used by customers.
+  
 * Enquiry Handling: Admins can view and respond to customer inquiries promptly.
   
 <h3>Database Setup:-</h3>
 * Create Database: Set up the tour_management database.
+
 * Import SQL File: Import the tour_management.sql file into the database to create the necessary tables and data structures.
 
 <h3>Project Setup</h3>
-<h4>*Customer Role </h4><br>
+<h4>*Customer Role </h4>
 a.) Registration and Login: Create an account by clicking on the register link. Log in to access the dashboard and view personal details.
+
 b.) Booking Packages: Click on the packages link to browse and book travel packages. Use the cart to specify the number of members for the booking.
+
 c.) Payment: Fill out the payment form and select a payment method (Stripe or PayPal). Both payment methods use client keys for secure transactions.
+
 d.) Order Confirmation: After successful booking and payment, wait for admin approval. Approved bookings will be visible on the order page.
+
 e.) Enquiries: Send inquiries about any package to the admin for additional information or issue resolution.
 
-<h4>*Admin Role </h4><br>
+<h4>*Admin Role </h4>
 a.) Manage Customers: View, update, or delete customer details as necessary.
+
 b.) Manage Packages: Create and manage travel packages, and update informational pages like about us, contact us, and privacy policies.
+
 c.) View Transactions: Access detailed transaction information, including payment methods used by customers.
+
 d.) Handle Enquiries: Respond to customer inquiries efficiently to ensure satisfaction.
 
-<h3>Payment Integration</h3><br>
+<h3>Payment Integration</h3>
 a.) Stripe: Implemented using the vendor folder for secure and efficient payment processing.
+
 b.) PayPal: Integrated using CDN for seamless transactions.
+
 **Both methods require client keys to ensure secure and reliable payment processing.**
 
 <h3>Conclusion</h3>
